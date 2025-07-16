@@ -1,6 +1,6 @@
 {
   "name": "expo-video-audio-extractor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "On-device audio extraction from video files in Expo & React Native apps without ffmpeg.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
