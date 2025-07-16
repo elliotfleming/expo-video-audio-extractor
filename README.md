@@ -6,13 +6,8 @@
 
 *No FFmpeg • No GPL • Just the platform media APIs — `AVAssetExportSession` (iOS) & `MediaExtractor / MediaMuxer / MediaCodec` (Android)*
 
-<table>
-  <tr>
-    <td>
-      <img src="docs/expo-video-audio-extractor-hero.png" alt="Hero marketing graphic" width="400" />
-    </td>
-  </tr>
-</table>
+<img src="docs/expo-video-audio-extractor-hero.png" alt="Hero marketing graphic" width="400" />
+
 
 ## Table of Contents
 
