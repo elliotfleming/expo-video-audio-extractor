@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ExpoVideoAudioExtractorModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.videoaudioextractor.ExpoVideoAudioExtractorModule"]
+  }
+}
